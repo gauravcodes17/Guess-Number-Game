@@ -77,7 +77,6 @@ p{
     .container{
         width: 100%;
         padding: 30px 10px;
-        min-height: 100vh;
     }
     h3{
         font-size: 23px;
